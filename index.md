@@ -56,7 +56,5 @@
     <li>Dancing</li>
   <hr size="2" color="black">
   <p><a href="contact details.html"> My contact details </a></p>
-
 </body>
-
 </html>
