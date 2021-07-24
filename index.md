@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en" dir="ltr">
 
 <head>
@@ -56,5 +56,4 @@
     <li>Dancing</li>
   <hr size="2" color="black">
   <p><a href="contact details.html"> My contact details </a></p>
-</body>
-</html>
+
